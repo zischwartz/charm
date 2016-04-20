@@ -836,6 +836,7 @@ var Charm = (function () {
   return Charm;
 })();
 
+module.exports = Charm;
 //Duration in frames
 //The easing type
 //Yoyo?
