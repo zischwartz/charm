@@ -1,0 +1,19 @@
+{
+  "name": "charm",
+  "version": "1.0.0",
+  "description": "Charm is an easy to use tweening library for the Pixi 2D rendering engine.",
+  "main": "./bin/Charm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zischwartz/charm.git"
+  },
+  "author": "zischwartz+npm@gmail.com (http://zachschwartz.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zischwartz/charm/issues"
+  },
+  "homepage": "https://github.com/zischwartz/charm#readme"
+}
